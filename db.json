@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Go to meet doctor",
+      "day": "30 Jun 2021",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Take dogs to vet",
+      "day": "14 Aug 2021",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Call to mom",
+      "day": "4 Sep 2021",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
